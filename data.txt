@@ -1,1 +1,4 @@
-Name:Miguel Pessanha Age: 25 Favorite Colour: Orange 
+Name:Miguel Pessanha 
+Age: 25 
+Favorite Colour: Orange 
+PC: Alienware M15 R6
